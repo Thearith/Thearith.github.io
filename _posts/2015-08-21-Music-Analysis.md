@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-, 2015 6:00 PM
+date: 2015-08-21 6:00 PM
 title: Music Analysis
 ---
 
